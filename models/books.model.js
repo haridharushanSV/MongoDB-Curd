@@ -12,3 +12,4 @@ const schema = new Schema({
 const book = model("book", schema);
 
 export default book;
+
