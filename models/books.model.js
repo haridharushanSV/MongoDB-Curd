@@ -8,8 +8,8 @@ const schema = new Schema({
 });
 
 //model
-
 const book = model("book", schema);
+
 
 export default book;
 
